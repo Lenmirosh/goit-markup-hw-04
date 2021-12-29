@@ -367,6 +367,17 @@ img {
   margin-bottom: 10px;
 }
 
+/* OUR PARTNERS */
+
+.our-partners-list {
+  display: flex;
+  outline: 1px dashed red;
+  margin: 0;
+  padding: 0;
+}
+.link-icon {
+  display: block;
+}
 /* FOOTER */
 
 .footer {
