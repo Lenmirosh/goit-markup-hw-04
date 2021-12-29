@@ -374,11 +374,13 @@ img {
   outline: 1px dashed red;
   margin: 0;
   padding: 0;
+  justify-content: space-between;
 }
 .our-partners-list .thumb {
   width: 170px;
   height: 72;
   outline: 1px solid rgba(175, 177, 184, 1);
+  border-radius: 0px 0px 4px 4px;
 }
 .link-icon {
   display: block;
