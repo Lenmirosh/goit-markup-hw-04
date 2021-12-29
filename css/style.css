@@ -375,6 +375,11 @@ img {
   margin: 0;
   padding: 0;
 }
+.our-partners-list .thumb {
+  width: 170px;
+  height: 72;
+  outline: 1px solid rgba(175, 177, 184, 1);
+}
 .link-icon {
   display: block;
 }
