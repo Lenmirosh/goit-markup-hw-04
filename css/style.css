@@ -429,8 +429,8 @@ img {
   fill: var(--accent-color);
 }
 
-.our-partners-link-icon:hover,
-.our-partners-link-icon:focus {
+.our-partners-item:hover,
+.our-partners-item:focus {
   border: 1px solid var(--accent-color);
 }
 
