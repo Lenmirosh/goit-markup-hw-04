@@ -409,12 +409,11 @@ img {
 }
 .our-partners-item {
   display: flex;
-  width: 170px;
-  height: 72;
   border: 1px solid rgba(175, 177, 184, 1);
   border-radius: 4px;
   justify-content: center;
   align-items: center;
+  padding: 16px 32px 16px 32px;
 }
 .our-partners-link-icon {
   display: flex;
@@ -425,8 +424,8 @@ img {
   fill: var(--icons-color);
 }
 
-.our-partners-link-icon:hover .our-partners-icon,
-.our-partners-link-icon:focus .our-partners-icon {
+.our-partners-item:hover .our-partners-icon,
+.our-partners-item:focus .our-partners-icon {
   fill: var(--accent-color);
 }
 
